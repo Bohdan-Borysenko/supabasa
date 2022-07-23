@@ -1,0 +1,21 @@
+@media only screen and (max-widht: 1200px) {
+
+}
+
+@media only screen and (max-widht: 992px) {
+    .header-content {
+        max-width: 70%;
+    }
+    .store-text {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-widht: 480px) {
+
+}
+
+@media only screen and (max-widht: 320px) {
+
+}
